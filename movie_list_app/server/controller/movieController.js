@@ -40,28 +40,35 @@ const UpdateMovie = async (req, res) => {
     try {
         const id = req.params.id;
         const { MovieName, Director ,Genre,Release_year, Language, Rating } = req.body;
-
-        const update = await movies.findByIdAndUpdate(id, {
-            MovieName, 
-            Director,
-            Genre,
-            Release_year, 
-            Language, 
-            Rating 
-        }, {
-            new: true,
-            runValidators: true
-        });
-        
-        res.json({
-            Status: "Updated",
-            Data : update
-        })
-
+        const mov = await movies.findById(id);
+        console.log(mov);
+        if(mov===null){
+            res.json({
+                Status: "No movie Found"
+            })
+        }
+        else{
+            const update = await movies.findByIdAndUpdate(id, {
+                MovieName, 
+                Director,
+                Genre,
+                Release_year, 
+                Language, 
+                Rating 
+            }, {
+                new: true,
+                runValidators: true
+            });
+            
+            res.json({
+                Status: "Updated",
+                Data : update
+            })
+        }
     } catch (error) {
         console.log(error);
         res.json({
-            status: "Failed",
+            Status: "Failed",
             Error: error.message
         });
     }
@@ -73,14 +80,21 @@ const SearchMovie = async (req, res) => {
     try {
         const name = req.params.movieName;
         const details = await movies.find({MovieName: `${name}`});
-        res.json({
-            Status: "Success",
-            Count: details.length,
-            Data : details
-        })
+        if(details.length===0){
+            res.json({
+                Status: "No Movies Found"
+            })
+        }
+        else{
+            res.json({
+                Status: "Success",
+                Count: details.length,
+                Data : details
+            })
+        }
     } catch (error) {
         res.json({
-            status: "Failed",
+            Status: "Failed",
             Error : error
         })
     }
@@ -97,7 +111,7 @@ const DeleteMovie = async (req, res) => {
     })
     } catch (error) {
         res.json({
-            status: "Failed",
+            Status: "Failed",
             Error : error
         })
     }
@@ -108,11 +122,18 @@ const DeleteMovie = async (req, res) => {
 const FilterMovie = async (req, res) => {
     try {
         const data = await movies.find(req.query);
-        res.json({
-            SearchMovietatus: "Success",
-            Count: data.length,
-            Data : data
-        })
+        if(data.length===0){
+            res.json({
+                Status: "No Record Found"
+            })
+        }
+        else{
+            res.json({
+                Status: "Success",
+                Count: data.length,
+                Data : data
+            })
+        }
     } catch (err) {
         console.log(err.message);
         res.json({
@@ -133,7 +154,7 @@ const CountByLang = async (req, res) => {
         })
     } catch (error) {
         res.json({
-            status: "Failed",
+            Status: "Failed",
             Error : error
         })
     }
@@ -151,7 +172,7 @@ const Sort = async (req, res)=>{
     }
     catch (error) {
         res.json({
-            status: "Failed",
+            Status: "Failed",
             Error : error
         })
     }
