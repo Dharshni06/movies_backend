@@ -1,0 +1,748 @@
+[{
+  "_id": {
+    "$oid": "6559e1b3bb587495510e4969"
+  },
+  "MovieName": "Leo",
+  "Director": "Lokesh Kanagaraj",
+  "Genre": [
+    "Action",
+    "Drama"
+  ],
+  "Release_year": 2023,
+  "Language": "Tamil",
+  "Rating": 7.7,
+  "createdAt": {
+    "$date": "2023-11-19T10:21:39.023Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T10:21:39.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6559e24abb587495510e496b"
+  },
+  "MovieName": "Irugapatru",
+  "Director": "Yuvaraj Dhayalan",
+  "Genre": [
+    "Drama",
+    "Love"
+  ],
+  "Release_year": 2023,
+  "Language": "Tamil",
+  "Rating": 8.3,
+  "createdAt": {
+    "$date": "2023-11-19T10:24:10.160Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T10:24:10.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6559f56a0af1487a5a037d19"
+  },
+  "MovieName": "Theri",
+  "Director": "Atlee",
+  "Genre": [
+    "Action",
+    "Thriller"
+  ],
+  "Release_year": 2016,
+  "Language": "Tamil",
+  "Rating": 7.2,
+  "createdAt": {
+    "$date": "2023-11-19T11:45:46.602Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T12:01:33.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a224f66b134e7d1564eb4"
+  },
+  "MovieName": "Dada",
+  "Director": "Ganesh K. Babu",
+  "Genre": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "Release_year": 2023,
+  "Language": "Tamil",
+  "Rating": 8.2,
+  "createdAt": {
+    "$date": "2023-11-19T14:57:19.522Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:57:19.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a225b66b134e7d1564eb6"
+  },
+  "MovieName": "Por Thozhil ",
+  "Director": "Vignesh Raja",
+  "Genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "Release_year": 2023,
+  "Language": "Tamil",
+  "Rating": 8,
+  "createdAt": {
+    "$date": "2023-11-19T14:57:31.726Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:57:31.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a226866b134e7d1564eb8"
+  },
+  "MovieName": "Jailer",
+  "Director": "Nelson Dilipkumar",
+  "Genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "Release_year": 2023,
+  "Language": "Tamil",
+  "Rating": 7.1,
+  "createdAt": {
+    "$date": "2023-11-19T14:57:44.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:57:44.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a227566b134e7d1564eba"
+  },
+  "MovieName": "Good Night",
+  "Director": "Vinayak Chandrasekaran",
+  "Genre": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "Release_year": 2023,
+  "Language": "Tamil",
+  "Rating": 7.7,
+  "createdAt": {
+    "$date": "2023-11-19T14:57:57.408Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:57:57.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a227f66b134e7d1564ebc"
+  },
+  "MovieName": "Ponniyin Selvan: Part II",
+  "Director": "Mani Ratnam",
+  "Genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "Release_year": 2023,
+  "Language": "Tamil",
+  "Rating": 7.3,
+  "createdAt": {
+    "$date": "2023-11-19T14:58:07.877Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:58:07.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a228866b134e7d1564ebe"
+  },
+  "MovieName": "Vikram",
+  "Director": "Lokesh Kanagaraj",
+  "Genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "Release_year": 2022,
+  "Language": "Tamil",
+  "Rating": 8.3,
+  "createdAt": {
+    "$date": "2023-11-19T14:58:16.375Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:58:16.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a229066b134e7d1564ec0"
+  },
+  "MovieName": "Ponniyin Selvan: Part I",
+  "Director": "Mani Ratnam",
+  "Genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "Release_year": 2022,
+  "Language": "Tamil",
+  "Rating": 7.6,
+  "createdAt": {
+    "$date": "2023-11-19T14:58:24.515Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:58:24.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a229f66b134e7d1564ec2"
+  },
+  "MovieName": "Sarpatta Parambarai",
+  "Director": "Pa. Ranjith",
+  "Genre": [
+    "Action",
+    "Thriller",
+    "Sport"
+  ],
+  "Release_year": 2021,
+  "Language": "Tamil",
+  "Rating": 8.5,
+  "createdAt": {
+    "$date": "2023-11-19T14:58:39.545Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:58:39.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a22a866b134e7d1564ec4"
+  },
+  "MovieName": "Master",
+  "Director": "Lokesh Kanagaraj",
+  "Genre": [
+    "Crime",
+    "Action",
+    "Thriller"
+  ],
+  "Release_year": 2021,
+  "Language": "Tamil",
+  "Rating": 7.4,
+  "createdAt": {
+    "$date": "2023-11-19T14:58:48.715Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:58:48.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a22b066b134e7d1564ec6"
+  },
+  "MovieName": "Doctor",
+  "Director": "Nelson Dilipkumar",
+  "Genre": [
+    "Crime",
+    "Action",
+    "Comedy"
+  ],
+  "Release_year": 2021,
+  "Language": "Tamil",
+  "Rating": 7.4,
+  "createdAt": {
+    "$date": "2023-11-19T14:58:56.887Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:58:56.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a22b966b134e7d1564ec8"
+  },
+  "MovieName": "Nayakan",
+  "Director": "Mani Ratnam",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Release_year": 1987,
+  "Language": "Tamil",
+  "Rating": 8.6,
+  "createdAt": {
+    "$date": "2023-11-19T14:59:05.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:59:05.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a22c466b134e7d1564eca"
+  },
+  "MovieName": "Thalapathi",
+  "Director": "Mani Ratnam",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Action"
+  ],
+  "Release_year": 1991,
+  "Language": "Tamil",
+  "Rating": 8.5,
+  "createdAt": {
+    "$date": "2023-11-19T14:59:16.929Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:59:16.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a22cf66b134e7d1564ecc"
+  },
+  "MovieName": "O Kadhal Kanmani",
+  "Director": "Mani Ratnam",
+  "Genre": [
+    "Musical",
+    "Drama",
+    "Romance"
+  ],
+  "Release_year": 2015,
+  "Language": "Tamil",
+  "Rating": 7.4,
+  "createdAt": {
+    "$date": "2023-11-19T14:59:27.044Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:59:27.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a22d866b134e7d1564ece"
+  },
+  "MovieName": "Jersey",
+  "Director": "Gowtam Tinnanuri",
+  "Genre": [
+    "Sports",
+    "Drama"
+  ],
+  "Release_year": 2019,
+  "Language": "Telugu",
+  "Rating": 8.5,
+  "createdAt": {
+    "$date": "2023-11-19T14:59:36.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:59:36.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a22ec66b134e7d1564ed0"
+  },
+  "MovieName": "M.S. Dhoni: The Untold Story",
+  "Director": "Neeraj Pandey",
+  "Genre": [
+    "Sports",
+    "Drama"
+  ],
+  "Release_year": 2016,
+  "Language": "Hindi",
+  "Rating": 8,
+  "createdAt": {
+    "$date": "2023-11-19T14:59:56.391Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T14:59:56.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a22fb66b134e7d1564ed2"
+  },
+  "MovieName": "83",
+  "Director": "Kabir Khan",
+  "Genre": [
+    "Sports",
+    "Drama"
+  ],
+  "Release_year": 2021,
+  "Language": "Hindi",
+  "Rating": 7.5,
+  "createdAt": {
+    "$date": "2023-11-19T15:00:11.957Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:00:11.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a230466b134e7d1564ed4"
+  },
+  "MovieName": "Sachin: A Billion Dreams",
+  "Director": "James Erskine",
+  "Genre": [
+    "Sports",
+    "Drama"
+  ],
+  "Release_year": 2017,
+  "Language": "Hindi",
+  "Rating": 8.5,
+  "createdAt": {
+    "$date": "2023-11-19T15:00:20.939Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:00:20.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a231066b134e7d1564ed6"
+  },
+  "MovieName": "Panchatanthiram",
+  "Director": "K. S. Ravikumar",
+  "Genre": [
+    "Comedy"
+  ],
+  "Release_year": 2002,
+  "Language": "Tamil",
+  "Rating": 7.5,
+  "createdAt": {
+    "$date": "2023-11-19T15:00:32.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:00:32.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a231d66b134e7d1564ed8"
+  },
+  "MovieName": "Jawan",
+  "Director": "Atlee",
+  "Genre": [
+    "Action",
+    "Thriller"
+  ],
+  "Release_year": 2023,
+  "Language": "Hindi",
+  "Rating": 7.1,
+  "createdAt": {
+    "$date": "2023-11-19T15:00:45.020Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:00:45.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a232666b134e7d1564eda"
+  },
+  "MovieName": "Brahmāstra: Part One – Shiva",
+  "Director": "Ayan Mukerji",
+  "Genre": [
+    "Action",
+    "Fantasy"
+  ],
+  "Release_year": 2022,
+  "Language": "Hindi",
+  "Rating": 5.6,
+  "createdAt": {
+    "$date": "2023-11-19T15:00:54.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:00:54.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a232e66b134e7d1564edc"
+  },
+  "MovieName": "Baaghi 2",
+  "Director": "Ahmed Khan",
+  "Genre": [
+    "Action",
+    "Suspense"
+  ],
+  "Release_year": 2018,
+  "Language": "Hindi",
+  "Rating": 7.8,
+  "createdAt": {
+    "$date": "2023-11-19T15:01:02.052Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:01:02.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a233666b134e7d1564ede"
+  },
+  "MovieName": "Oopiri",
+  "Director": "Vamshi Paidipally",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Release_year": 2016,
+  "Language": "Telugu",
+  "Rating": 8,
+  "createdAt": {
+    "$date": "2023-11-19T15:01:10.339Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:01:10.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a233f66b134e7d1564ee0"
+  },
+  "MovieName": "Baahubali: The Beginning",
+  "Director": "S.S. Rajamouli",
+  "Genre": [
+    "Action",
+    "War"
+  ],
+  "Release_year": 2015,
+  "Language": "Telugu",
+  "Rating": 8,
+  "createdAt": {
+    "$date": "2023-11-19T15:01:19.871Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:01:19.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a234866b134e7d1564ee2"
+  },
+  "MovieName": "Baahubali 2: The Conclusion",
+  "Director": "S.S. Rajamouli",
+  "Genre": [
+    "Action",
+    "War"
+  ],
+  "Release_year": 2017,
+  "Language": "Telugu",
+  "Rating": 8.2,
+  "createdAt": {
+    "$date": "2023-11-19T15:01:28.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:01:28.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a235166b134e7d1564ee4"
+  },
+  "MovieName": "Sita Ramam",
+  "Director": "Hanu Raghavapudi",
+  "Genre": [
+    "Romance",
+    "Drama"
+  ],
+  "Release_year": 2022,
+  "Language": "Telugu",
+  "Rating": 8.6,
+  "createdAt": {
+    "$date": "2023-11-19T15:01:37.525Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:01:37.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a235966b134e7d1564ee6"
+  },
+  "MovieName": "Attack on Titan (Series)",
+  "Director": "Tetsurō Araki",
+  "Genre": [
+    "Action",
+    "Fiction",
+    "Anime"
+  ],
+  "Release_year": 2013,
+  "Language": "Japanese",
+  "Rating": 9.1,
+  "createdAt": {
+    "$date": "2023-11-19T15:01:45.993Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:01:45.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a236066b134e7d1564ee8"
+  },
+  "MovieName": "Hunter X Hunter (Series)",
+  "Director": "Hiroshi Kōjina",
+  "Genre": [
+    "Action",
+    "Fiction",
+    "Anime"
+  ],
+  "Release_year": 2011,
+  "Language": "Japanese",
+  "Rating": 9,
+  "createdAt": {
+    "$date": "2023-11-19T15:01:52.997Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:01:52.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a236866b134e7d1564eea"
+  },
+  "MovieName": "Haikyuu (Series)",
+  "Director": "Susumu Mitsunaka",
+  "Genre": [
+    "Sports",
+    "Animation"
+  ],
+  "Release_year": 2014,
+  "Language": "Japanese",
+  "Rating": 8.7,
+  "createdAt": {
+    "$date": "2023-11-19T15:02:00.302Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:02:00.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a236f66b134e7d1564eec"
+  },
+  "MovieName": "Stranger Things(Series)",
+  "Director": "Matt and Ross Duffer",
+  "Genre": [
+    "Action",
+    "Thriller"
+  ],
+  "Release_year": 2016,
+  "Language": "English",
+  "Rating": 9,
+  "createdAt": {
+    "$date": "2023-11-19T15:02:07.867Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:02:07.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a238166b134e7d1564eee"
+  },
+  "MovieName": "Inception",
+  "Director": "Christopher Nolan",
+  "Genre": [
+    "Action",
+    "Sci-fi"
+  ],
+  "Release_year": 2010,
+  "Language": "English",
+  "Rating": 8.8,
+  "createdAt": {
+    "$date": "2023-11-19T15:02:25.531Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:02:25.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a238f66b134e7d1564ef0"
+  },
+  "MovieName": "Tenet",
+  "Director": "Christopher Nolan",
+  "Genre": [
+    "Action",
+    "Sci-fi"
+  ],
+  "Release_year": 2020,
+  "Language": "English",
+  "Rating": 7.3,
+  "createdAt": {
+    "$date": "2023-11-19T15:02:39.254Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:02:39.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a239966b134e7d1564ef2"
+  },
+  "MovieName": "Avatar: The Way of Water",
+  "Director": "James Cameron",
+  "Genre": [
+    "Action",
+    "Sci-fi"
+  ],
+  "Release_year": 2022,
+  "Language": "English",
+  "Rating": 7.6,
+  "createdAt": {
+    "$date": "2023-11-19T15:02:49.070Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:02:49.070Z"
+  },
+  "__v": 0
+}]
